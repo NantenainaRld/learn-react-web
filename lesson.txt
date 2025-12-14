@@ -1,0 +1,22 @@
+//============== LEARN REACT WEB ===========
+
+1. Intro :
+  # react is a javascript library developped by facebook
+
+2. Prerequisites :
+  # knowledge : javascript (arrow functions , ES6 syntax, array map && filter &&
+reduce)
+  # soft : node.js (npm , npx, or vite), browser , IDE
+
+3. Start :
+  # create a new react project with dependencies  (requires interequires
+    `
+    $ npx create-react-app my-react-app
+    `
+  # launch the react project :
+    `
+    //navigate to the project folder
+    $ cd my-react-app
+    //start the development server
+    $my-react-app~ npm start
+    `
